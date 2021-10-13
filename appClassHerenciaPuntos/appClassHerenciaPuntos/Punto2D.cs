@@ -1,0 +1,51 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace appClassHerenciaPuntos
+{
+    class Punto2D : Punto
+    {
+        protected double y;
+
+        public double Y
+        {
+            get
+            {
+                return y;
+            }
+            set
+            {
+                y = value;
+            }
+        }
+
+        protected Punto2D() : base()
+        {
+            y = 0;
+            x = 0;
+        }
+        public Punto2D(double x, double y) : base(x)
+        {
+            this.y = y;
+            this.x = x;
+        }
+        public double Distancia(Punto2D p)
+        {
+            double d = 0;
+            double dx = x - p.x;
+            double dy = y - p.y;
+            double cdx = Math.Pow(dx, 2);
+            double cdy = Math.Pow(dy, 2);
+            d = Math.Sqrt(cdx + cdy);
+
+            return d;
+        }
+        public override string ToString()
+        {
+            return base.ToString() + " Y=" + y;
+        }
+    }
+}

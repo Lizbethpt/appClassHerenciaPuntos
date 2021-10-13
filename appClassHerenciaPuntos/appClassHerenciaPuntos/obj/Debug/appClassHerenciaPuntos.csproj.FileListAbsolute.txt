@@ -1,0 +1,7 @@
+C:\Users\Hector Peña\source\repos\appClassHerenciaPuntos\appClassHerenciaPuntos\obj\Debug\appClassHerenciaPuntos.csproj.AssemblyReference.cache
+C:\Users\Hector Peña\source\repos\appClassHerenciaPuntos\appClassHerenciaPuntos\obj\Debug\appClassHerenciaPuntos.csproj.CoreCompileInputs.cache
+C:\Users\Hector Peña\source\repos\appClassHerenciaPuntos\appClassHerenciaPuntos\bin\Debug\appClassHerenciaPuntos.exe.config
+C:\Users\Hector Peña\source\repos\appClassHerenciaPuntos\appClassHerenciaPuntos\bin\Debug\appClassHerenciaPuntos.exe
+C:\Users\Hector Peña\source\repos\appClassHerenciaPuntos\appClassHerenciaPuntos\bin\Debug\appClassHerenciaPuntos.pdb
+C:\Users\Hector Peña\source\repos\appClassHerenciaPuntos\appClassHerenciaPuntos\obj\Debug\appClassHerenciaPuntos.exe
+C:\Users\Hector Peña\source\repos\appClassHerenciaPuntos\appClassHerenciaPuntos\obj\Debug\appClassHerenciaPuntos.pdb
